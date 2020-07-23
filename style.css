@@ -8,5 +8,28 @@ header{
     background-color: #669db3ff;
     text-align: center;
     color: #f0f6f7ff;
-    padding: 20px
+    padding: 10px
+}
+.container h1{
+    color: #669db3ff;
+    border-bottom: 2px solid grey;
+
+}
+
+.container{
+    padding: 2%;
+    z-index: 4;
+    background-color: white;
+}
+main{
+    padding: 1%;
+    background-color: rgb(209, 204, 204);
+    border-bottom: 5px solid #669db3ff;
+}
+
+footer{
+    color: rgb(245, 244, 244);
+    /* background-color: rgb(88, 88, 88); */
+    margin: 0px;
+    border: 0;
 }
