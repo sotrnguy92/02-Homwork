@@ -13,6 +13,7 @@ header{
 .container h1{
     color: #669db3ff;
     border-bottom: 2px solid grey;
+    padding-bottom: 10px;
 
 }
 
@@ -29,7 +30,6 @@ main{
 
 footer{
     color: rgb(245, 244, 244);
-    /* background-color: rgb(88, 88, 88); */
     margin: 0px;
     border: 0;
 }
